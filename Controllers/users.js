@@ -63,7 +63,7 @@ const getdataby_idandupdate = async(req,res,next)=>{
 }
 const getdataby_idanddelete = async(req,res,next)=>{
     
-console.log("object");
+console.log("objectooooooooooooooooo");
 }
 
 const getdataby_id = async(req,res,next) => {
